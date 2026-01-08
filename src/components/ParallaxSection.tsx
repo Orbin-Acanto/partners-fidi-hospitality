@@ -5,7 +5,7 @@ const ParallaxSection: React.FC = () => {
     <section
       className="
         relative 
-        h-[40vh]
+        h-[60vh]
         overflow-hidden
         parallax-bg
         mt-24
@@ -19,7 +19,10 @@ const ParallaxSection: React.FC = () => {
         playsInline
         preload="auto"
       >
-        <source src="/videos/vid3.mp4" type="video/mp4" />
+        <source
+          src="/videos/FIDI Hospitality_Landing_Page_Hero_Banner.mp4"
+          type="video/mp4"
+        />
       </video>
 
       <div className="absolute inset-0 bg-black/30"></div>
