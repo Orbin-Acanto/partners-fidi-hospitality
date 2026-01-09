@@ -33,8 +33,8 @@ const MarketingServicesSection = () => {
   ];
 
   return (
-    <section className="w-full bg-stone-200">
-      <div className="grid grid-cols-1 xl:grid-cols-2">
+    <section className="w-full ">
+      <div className="grid grid-cols-1 xl:grid-cols-2 items-center">
         <div className="px-8 py-12 lg:px-16 lg:py-16 bg-white">
           <h2 className="text-3xl sm:text-4xl xl:text-5xl font-normal tracking-wide leading-snug text-stone-800 mb-4 lg:mb-8">
             MARKETING SERVICES
