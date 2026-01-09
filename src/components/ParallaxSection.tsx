@@ -28,9 +28,9 @@ const ParallaxSection: React.FC = () => {
       <div className="absolute inset-0 bg-black/30"></div>
 
       <div className="relative z-10 h-full flex items-center justify-center">
-        <h2 className="text-white text-4xl text-center md:text-6xl font-light tracking-wide drop-shadow-xl uppercase font-primary">
-          'tis the season for magical
-          <br /> holiday celebrations
+        <h2 className="text-white text-3xl text-center md:text-6xl font-light tracking-wide drop-shadow-xl uppercase">
+          TURNING DISTINCTIVE SPACES INTO
+          <br /> PROFITABLE EVENT DESTINATIONS
         </h2>
       </div>
     </section>

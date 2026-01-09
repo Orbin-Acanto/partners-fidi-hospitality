@@ -5,6 +5,13 @@ import { Footer } from "./components/Footer";
 import SophisticatedHero from "./sections/SophisticatedHero";
 import ReasonsToPartner from "./sections/ReasonsToPartnerProps";
 import { reasons } from "./data";
+import ThreeImageSection from "./sections/ThreeImageSection";
+import VenueManagementSection from "./sections/VenueManagementSection";
+import EventCoordinationSection from "./sections/EventCoordinationSection";
+import FormulaForSuccessSection from "./sections/FormulaForSuccessSection";
+import NoOutOfPocketSection from "./sections/NoOutOfPocketSection";
+import ComprehensiveServicesSection from "./sections/ComprehensiveServicesSection";
+import MarketingServicesSection from "./sections/MarketingServicesSection";
 const App: React.FC = () => {
   return (
     <>
@@ -17,6 +24,21 @@ const App: React.FC = () => {
       />
       <div className="bg-primary z-10 h-1"></div>
       <ReasonsToPartner reasons={reasons} />
+      <div className="bg-primary z-10 h-1"></div>
+      <ThreeImageSection />
+      <div className="bg-primary z-10 h-1"></div>
+      <VenueManagementSection />
+      <div className="bg-primary z-10 h-1"></div>
+      <EventCoordinationSection />
+      <div className="bg-primary z-10 h-1"></div>
+      <FormulaForSuccessSection />
+      <div className="bg-primary z-10 h-1"></div>
+      <NoOutOfPocketSection />
+      <div className="bg-primary z-10 h-1"></div>
+      <ComprehensiveServicesSection />
+      <div className="bg-primary z-10 h-1"></div>
+      <MarketingServicesSection />
+      <div className="bg-primary z-10 h-1"></div>
       <Footer />
     </>
   );

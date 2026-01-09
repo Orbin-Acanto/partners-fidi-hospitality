@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.19 54.19">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-4 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.08px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-3" width="54.19" height="54.19"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-9">
+      <path class="cls-4" d="M45,29.88c-1.7-2.96-2.96-4.98-4.24-6.74-1.43-1.75-3.04-3.47-5.04-5.33-1.75-1.45-3.76-2.9-5.76-4.14-1.76-.93-4.26-2.02-6.52-2.82-2.5-.72-4.75-1.25-6.25-1.51l-3.56-.5"/>
+      <path class="cls-4" d="M50.45,26.92c-.64-1.42-1.77-3.43-2.66-4.93-1.57-2.25-3.34-4.5-5.13-6.49-1.72-1.67-4.46-4.05-6.71-5.72-1-.67-2-1.27-5.27-3.02-1.75-.82-3.99-1.67-6.74-2.51-3.01-.72-6.01-1.26-7.26-1.44l-1.47-.15"/>
+      <path class="cls-4" d="M19.68,16.33c2.19,0,3.97,1.78,3.97,3.97s-1.78,3.97-3.97,3.97-3.97-1.78-3.97-3.97,1.78-3.97,3.97-3.97Z"/>
+    </g>
+    <line class="cls-4" x1="23.16" y1="22.27" x2="23.35" y2="21.99"/>
+    <line class="cls-4" x1="18.67" y1="38.91" x2="4.66" y2="46.23"/>
+    <g class="cls-5">
+      <path class="cls-4" d="M18.67,38.91c.1,0,.2,0,.3,0"/>
+    </g>
+    <line class="cls-4" x1="18.97" y1="38.91" x2="19.15" y2="38.94"/>
+    <line class="cls-4" x1="19.15" y1="38.94" x2="19.34" y2="39"/>
+    <line class="cls-4" x1="19.34" y1="39" x2="19.53" y2="39.08"/>
+    <line class="cls-4" x1="19.53" y1="39.08" x2="19.7" y2="39.18"/>
+    <line class="cls-4" x1="19.7" y1="39.19" x2="19.87" y2="39.31"/>
+    <line class="cls-4" x1="19.87" y1="39.31" x2="20.01" y2="39.45"/>
+    <g class="cls-8">
+      <path class="cls-4" d="M20.01,39.45c.09.09.16.19.24.29"/>
+    </g>
+    <line class="cls-4" x1="20.25" y1="39.74" x2="20.34" y2="39.88"/>
+    <g class="cls-7">
+      <path class="cls-4" d="M20.34,39.88c.05.1.09.2.12.31"/>
+    </g>
+    <line class="cls-4" x1="20.45" y1="40.19" x2="20.61" y2="45.25"/>
+    <g class="cls-2">
+      <line class="cls-4" x1="20.53" y1="43.2" x2="4.93" y2="51.52"/>
+      <line class="cls-4" x1="4.93" y1="51.52" x2="3.74" y2="50.6"/>
+      <line class="cls-4" x1="15.21" y1="2.67" x2="3.74" y2="50.6"/>
+    </g>
+    <line class="cls-4" x1="50.45" y1="26.92" x2="25.24" y2="40.7"/>
+    <line class="cls-4" x1="20.62" y1="45.25" x2="20.67" y2="45.52"/>
+    <line class="cls-4" x1="20.67" y1="45.52" x2="20.77" y2="45.77"/>
+    <line class="cls-4" x1="20.77" y1="45.77" x2="20.9" y2="46.03"/>
+    <line class="cls-4" x1="20.9" y1="46.03" x2="21.07" y2="46.29"/>
+    <line class="cls-4" x1="21.07" y1="46.29" x2="21.28" y2="46.53"/>
+    <line class="cls-4" x1="21.28" y1="46.53" x2="21.52" y2="46.75"/>
+    <line class="cls-4" x1="21.52" y1="46.75" x2="21.77" y2="46.92"/>
+    <line class="cls-4" x1="21.77" y1="46.92" x2="22.03" y2="47.05"/>
+    <g class="cls-6">
+      <path class="cls-4" d="M22.03,47.05c.16.07.33.13.51.17"/>
+    </g>
+    <line class="cls-4" x1="22.53" y1="47.23" x2="22.78" y2="47.27"/>
+    <line class="cls-4" x1="22.78" y1="47.27" x2="23.03" y2="47.28"/>
+    <line class="cls-4" x1="23.03" y1="47.28" x2="23.28" y2="47.26"/>
+    <line class="cls-4" x1="23.28" y1="47.26" x2="23.54" y2="47.2"/>
+    <line class="cls-4" x1="23.54" y1="47.2" x2="23.81" y2="47.1"/>
+    <line class="cls-4" x1="23.81" y1="47.1" x2="24.08" y2="46.96"/>
+    <line class="cls-4" x1="24.08" y1="46.96" x2="24.34" y2="46.79"/>
+    <line class="cls-4" x1="24.34" y1="46.79" x2="24.58" y2="46.58"/>
+    <line class="cls-4" x1="24.58" y1="46.58" x2="24.78" y2="46.35"/>
+    <line class="cls-4" x1="24.78" y1="46.35" x2="24.93" y2="46.09"/>
+    <line class="cls-4" x1="24.94" y1="46.09" x2="25.05" y2="45.82"/>
+    <line class="cls-4" x1="25.05" y1="45.82" x2="25.13" y2="45.55"/>
+    <line class="cls-4" x1="25.13" y1="45.55" x2="25.24" y2="40.7"/>
+    <line class="cls-4" x1="20.56" y1="43.13" x2="20.53" y2="43.2"/>
+    <g class="cls-1">
+      <path class="cls-4" d="M29.41,26.65c1.96,0,3.55,1.59,3.55,3.55s-1.59,3.55-3.55,3.55-3.55-1.59-3.55-3.55,1.59-3.55,3.55-3.55Z"/>
+    </g>
+    <line class="cls-4" x1="32.48" y1="32.01" x2="32.67" y2="31.71"/>
+  </g>
+</svg>
