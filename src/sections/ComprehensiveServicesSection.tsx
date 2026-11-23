@@ -52,8 +52,10 @@ const ComprehensiveServicesSection = () => {
           {services.map((service, index) => (
             <div key={index} className="flex flex-col">
               <img
+                loading="lazy"
+                decoding="async"
                 src={service.icon}
-                alt={service.title}
+                alt=""
                 className="w-10 h-10 mb-4"
               />
               <h3 className="text-lg md:text-xl font-semibold tracking-[0.15em] text-stone-800 mb-3 uppercase">

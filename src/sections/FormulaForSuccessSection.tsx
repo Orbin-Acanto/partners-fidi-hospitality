@@ -50,6 +50,8 @@ const FormulaForSuccessSection = () => {
 
         <div className="h-64 lg:h-auto order-first xl:order-last">
           <img
+            loading="lazy"
+            decoding="async"
             src="/images/module6_image-100.jpg"
             alt="Elegant venue setup"
             className="w-full h-full object-cover"

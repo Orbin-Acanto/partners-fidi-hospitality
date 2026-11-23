@@ -52,8 +52,10 @@ const MarketingServicesSection = () => {
             {services.map((service, index) => (
               <div key={index} className="bg-primary p-5 flex flex-col">
                 <img
+                  loading="lazy"
+                  decoding="async"
                   src={service.icon}
-                  alt={service.title}
+                  alt=""
                   className="w-12 h-12 mb-3"
                 />
                 <h3 className="text-lg md:text-xl font-semibold tracking-[0.15em] text-stone-800 mb-3 uppercase">
@@ -69,6 +71,8 @@ const MarketingServicesSection = () => {
 
         <div className="h-64 lg:h-auto">
           <img
+            loading="lazy"
+            decoding="async"
             src="/images/module9_image-100.jpg"
             alt="Professional hospitality team"
             className="w-full h-full object-cover"

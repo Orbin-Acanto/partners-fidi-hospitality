@@ -19,6 +19,7 @@ const SophisticatedHero: React.FC<SophisticatedHeroProps> = ({
         <img
           src={imageSrc}
           alt={imageAlt}
+          fetchPriority="high"
           className="w-full h-full object-cover object-center transition-transform duration-700 ease-out group-hover:scale-[1.02]"
         />
 

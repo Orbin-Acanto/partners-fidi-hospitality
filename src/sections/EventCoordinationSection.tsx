@@ -27,6 +27,8 @@ const EventCoordinationSection = () => {
       <div className="grid grid-cols-1 xl:grid-cols-2">
         <div className="h-64 lg:h-auto">
           <img
+            loading="lazy"
+            decoding="async"
             src="/images/module5_image-100.jpg"
             alt="Comprehensive Event Coordination"
             className="w-full h-full object-cover"
@@ -49,8 +51,10 @@ const EventCoordinationSection = () => {
                 className="bg-primary p-6 flex flex-col items-center text-center"
               >
                 <img
+                  loading="lazy"
+                  decoding="async"
                   src={service.icon}
-                  alt={service.title}
+                  alt=""
                   className="w-12 h-12 mb-3"
                 />
                 <h3 className="text-lg md:text-xl font-semibold tracking-[0.15em] text-stone-900 mb-2 uppercase">

@@ -4,6 +4,8 @@ const NoOutOfPocketSection = () => {
       <div className="grid grid-cols-1 xl:grid-cols-2">
         <div className="h-64 lg:h-auto">
           <img
+            loading="lazy"
+            decoding="async"
             src="/images/out_of_pocket.jpeg"
             alt="Professional hospitality team"
             className="w-full h-full object-cover"

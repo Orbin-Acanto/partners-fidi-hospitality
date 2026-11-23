@@ -21,8 +21,12 @@ const ThreeImageSection = () => {
           {images.map((image, index) => (
             <div key={index} className="relative">
               <img
+                loading="lazy"
+                decoding="async"
                 src={image.src}
-                alt={image.label.replace("\n", " ")}
+                alt={image.label.replace(/\n/g, " ")}
+                width={508}
+                height={1041}
                 className="w-full h-auto"
               />
             </div>

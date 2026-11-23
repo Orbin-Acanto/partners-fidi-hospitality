@@ -46,6 +46,8 @@ const VenueManagementSection = () => {
             {venues.map((venue, index) => (
               <div key={index} className="w-full">
                 <img
+                  loading="lazy"
+                  decoding="async"
                   src={venue.src}
                   alt={venue.alt}
                   className="w-full h-auto"
